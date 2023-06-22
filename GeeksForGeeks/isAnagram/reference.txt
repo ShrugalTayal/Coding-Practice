@@ -1,0 +1,8 @@
+Title: Anagram
+Link: [Anagram - GeeksforGeeks](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)
+
+In this problem, you are given two strings and you need to determine if they are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of another word or phrase.
+
+The GeeksforGeeks link provides the problem statement, along with a detailed explanation and example test cases. It also includes the implementation of the problem in various programming languages.
+
+Please note that the link provided is based on the current available information and it's always a good idea to double-check if the link is still active or if the content has been moved or updated.
