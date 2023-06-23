@@ -1,0 +1,4 @@
+Title: LeetCode - Explore - Interview Questions - Easy - Array - Remove Duplicates from Sorted Array
+Website: LeetCode
+URL: [https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
+Problem Description: This problem asks you to remove duplicates from a sorted array in-place, modifying the input array and returning the new length of the array. It also requires you to ensure that the remaining elements in the modified array are sorted without any duplicates.
