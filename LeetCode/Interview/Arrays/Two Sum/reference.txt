@@ -1,0 +1,12 @@
+Title: Two Sum
+
+Link: [Two Sum - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)
+
+Description:
+The "Two Sum" problem asks us to find two numbers in an array that add up to a specific target. Given an array of integers `nums` and a target value, we need to return the indices of the two numbers such that they add up to the target.
+
+The solution provided is a brute force approach that iterates through each element in the array and checks all possible pairs to find the desired sum. It uses two nested loops to compare each element with all the subsequent elements. If a pair with the target sum is found, the indices of the pair are stored in the result array and returned.
+
+The time complexity of this solution is O(n^2), where n is the length of the input array. This is because we have nested loops iterating through the array. As a result, the solution may not be efficient for large input arrays.
+
+Overall, this problem tests our ability to think of a simple brute force solution and understand basic array operations. It's a common interview question that helps evaluate our problem-solving and coding skills.
