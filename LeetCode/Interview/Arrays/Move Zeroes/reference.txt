@@ -1,0 +1,13 @@
+Title: Move Zeroes
+Link: [Move Zeroes - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
+
+Description:
+The problem "Move Zeroes" asks you to move all the zeros in an array to the end while maintaining the relative order of the non-zero elements. 
+
+You are given an integer array `nums`, where you need to modify the array in-place without using any extra space. You should perform the operation in linear time complexity.
+
+To solve the problem, you can use a two-pointer approach. Initialize a pointer `pointer` to keep track of the position where the next non-zero element should be placed. Iterate through the array, and whenever you encounter a non-zero element, swap it with the element at the `pointer` position, and increment the `pointer`. 
+
+This approach ensures that all the non-zero elements are placed at the beginning of the array in their original order, and all the zeros are moved to the end of the array.
+
+Feel free to visit the provided link for a detailed description, examples, and potential solutions to the problem.
