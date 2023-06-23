@@ -1,0 +1,12 @@
+Title: Plus One
+
+Link: [Plus One - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
+
+Description:
+The "Plus One" problem asks to add one to a given integer represented as an array of digits. The digits are stored in reverse order, with the least significant digit at the 0th index.
+
+The provided code implements the solution to this problem. It converts the array of digits to a string, removes the square brackets, and joins the digits into a single string. Then, it converts the string to an integer, increments it by 1, and converts it back to a string. The string is then converted back to a list of individual digits, and the final list is returned.
+
+The code has been commented to explain each step of the process. It handles cases where the digits may exceed the range of a single digit (e.g., carrying over to the next digit).
+
+This solution has a time complexity of O(n), where n is the number of digits in the input list.
