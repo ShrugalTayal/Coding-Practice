@@ -1,0 +1,11 @@
+Problem: Rotate Image
+
+You can find the solution to the problem "Rotate Image" on LeetCode using the following link:
+
+Solution Link: [Rotate Image Solution](https://leetcode.com/submissions/detail/979518859/?from=explore&item_id=770)
+
+In this problem, you are given an n x n 2D matrix representing an image. You need to rotate the image by 90 degrees (clockwise) in-place. The problem asks you to modify the matrix directly, without using extra space.
+
+The provided solution implements the rotation algorithm. It transposes the matrix and then reverses each row to achieve the desired rotation. The algorithm modifies the matrix in-place and does not return anything.
+
+Feel free to refer to the solution for a detailed implementation.
