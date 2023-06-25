@@ -1,0 +1,4 @@
+Title: Implement strStr()
+Link: [Implement strStr() - LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
+
+This reference is from LeetCode's "Top Interview Questions" section, specifically under the "Strings" category. It covers the implementation of the `strStr()` function, which is used to find the first occurrence of a substring within a string. The reference includes problem description, input/output examples, and a template for the implementation.
