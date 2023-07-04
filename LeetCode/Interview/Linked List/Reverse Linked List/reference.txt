@@ -1,0 +1,16 @@
+Title: Reverse Linked List
+Link: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/
+
+Description:
+Reverse a singly linked list.
+
+Example:
+Input: 1->2->3->4->5->NULL
+Output: 5->4->3->2->1->NULL
+
+Note:
+A linked list can be reversed either iteratively or recursively. Could you implement both?
+
+Complexity Analysis:
+- Time Complexity: O(n) for both iterative and recursive solutions.
+- Space Complexity: O(1) for the iterative solution, O(n) for the recursive solution due to the call stack.
