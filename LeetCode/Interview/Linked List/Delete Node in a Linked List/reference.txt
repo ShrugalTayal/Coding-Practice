@@ -1,0 +1,25 @@
+Delete Node in a Linked List:
+
+Problem Description:
+Given a node from a singly linked list, delete it in-place.
+
+Problem Link:
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+Example:
+Input: head = [4,5,1,9], node = 5
+Output: [4,1,9]
+
+Explanation:
+You are given the second node with value 5, the linked list should become 4 -> 1 -> 9 after calling your function.
+
+Time Complexity:
+The time complexity of this solution is O(1) because the deletion operation takes constant time.
+
+Space Complexity:
+The space complexity of this solution is O(1) because it does not require any extra space.
+
+Note:
+- The given node is not the tail of the linked list.
+- The linked list will have at least two nodes.
+- The node to be deleted is guaranteed to be in the linked list.
