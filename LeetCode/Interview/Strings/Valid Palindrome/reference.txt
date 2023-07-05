@@ -1,0 +1,22 @@
+Title: Valid Palindrome
+Link: https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/
+
+Description:
+Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+
+Example 1:
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: The given string is a palindrome, reading the same forward and backward, while ignoring non-alphanumeric characters and case.
+
+Example 2:
+Input: s = "race a car"
+Output: false
+Explanation: The given string is not a palindrome, as it does not read the same forward and backward.
+
+Note:
+- You may assume the string contains only lowercase or uppercase letters and/or digits.
+
+Complexity Analysis:
+- Time Complexity: O(n), where n is the length of the string s.
+- Space Complexity: O(1), as the algorithm uses constant space.
